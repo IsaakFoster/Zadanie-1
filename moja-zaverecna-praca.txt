@@ -1,1 +1,16 @@
 Návrh a realizácia cenovo dostupného zariadenia na zaznamenávanie pohybu očí (Eye Tracking).
+Metódy zaznamenávania pohybu očí, resp. Eye Trackingu sa čoraz viac
+používaju vo sférach neuromarketingu, ale aj vzdelávania a dizajnu
+používateľsky prívetivých rozhraní. Použiteľné zariadenia sú však často
+priveľmi drahé, hoci samotný princíp fungovania je dobre popísaný
+a realizovateľný so súčasne dostupnými zariadeniami a súčastkami ako sú
+webkamery a IR LED.
+Požiadavky na vedomosti a zručnosti študenta: Silný programátorský základ,
+prípadne schopnosť osvojiť si programovacie jazyky Python, Java, C/C++.
+Používanie programu Blender pre návrh tela prototypu. Základná zručnosť so
+spájkovačkou.
+Charakter práce: vývoj softvéru – analýza riešeného problému, návrh hardvéru
+a softvéru, metodika vývoja, implementácia, popis vytvoreného riešenia,
+testovanie.
+Cieľ: Cieľom práce je navrhnúť a zrealizovať prototyp eye tracking zariadenia,
+zostrojiteľného s použitím bežných zariadení ako sú webkamery a IR LED.
