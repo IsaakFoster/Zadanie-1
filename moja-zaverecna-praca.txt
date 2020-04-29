@@ -1,0 +1,1 @@
+Návrh a realizácia cenovo dostupného zariadenia na zaznamenávanie pohybu očí (Eye Tracking).
